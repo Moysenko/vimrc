@@ -8,4 +8,3 @@ My vim configuration
 ```
 :PluginInstall
 ```
-4. Have fun!
